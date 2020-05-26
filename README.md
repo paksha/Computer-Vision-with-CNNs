@@ -1,3 +1,4 @@
-# Computer-Vision-with-CNNs
-Experimenting with CNNs to detect MNIST digits and CIFAR-10 objects.
-This was completed for SYDE 552 at the University of Waterloo.
+# Computer Vision Problems
+Solving various computer vision problems using CNNs.
+
+Examples include classification of MNIST digits, CIFAR-10 images, and Hand Gestures.
